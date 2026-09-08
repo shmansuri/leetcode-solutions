@@ -1,23 +1,23 @@
 /*
  * Platform: LeetCode
  * Problem: Two Sum
- * URL: https://leetcode.com/problems/two-sum/submissions/2135242808/
+ * URL: https://leetcode.com/problems/two-sum/submissions/2135245418/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Hash Table
  * Runtime: 0 ms
- * Memory: 14.86 MB
- * Synced: 2026-09-08T14:54:27.426Z
+ * Memory: 0.00 MB
+ * Synced: 2026-09-08T14:55:14.448Z
  */
 
-for (int i = 0; i < (int)nums.size(); ++i) {
-     unordered_map<int,int> mp; // value -> index
-    //    return{}; 
-
-    //     }
-    //         }
-    //             }
-    //                 return arr;
-    //                 arr.push_back(j);
-    //                 arr.push_back(i);
-    //             if(nums[i]+ nums[j] == target){
+}
+            mp[nums[i]] = i;
+        }
+        return {};
+    }
+    
+};
+                return { mp[need], i }; // found complement
+            if (mp.find(need) != mp.end()) {
+            int need = target - nums[i];
+        for (int i = 0; i < (int)nums.size(); ++i) {
