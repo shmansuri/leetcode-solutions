@@ -7,17 +7,17 @@
  * Topics: Array, Hash Table
  * Runtime: 0 ms
  * Memory: 14.86 MB
- * Synced: 2026-09-08T14:53:41.214Z
+ * Synced: 2026-09-08T14:54:27.426Z
  */
 
-class Solution {
-public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-    //     vector<int> arr;
-    //     for(int i =0; i<(int)nums.size(); i++){
-    //         for(int j=i+1; j<(int)nums.size(); j++){
-    //             if(nums[i]+ nums[j] == target){
-    //                 arr.push_back(i);
-    //                 arr.push_back(j);
-    //                 return arr;
+for (int i = 0; i < (int)nums.size(); ++i) {
+     unordered_map<int,int> mp; // value -> index
+    //    return{}; 
+
+    //     }
+    //         }
     //             }
+    //                 return arr;
+    //                 arr.push_back(j);
+    //                 arr.push_back(i);
+    //             if(nums[i]+ nums[j] == target){
