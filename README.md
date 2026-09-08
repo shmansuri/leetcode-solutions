@@ -1,63 +1,54 @@
-I will upload my LeetCode solutions here
-
 # LeetCode Solutions
 
-My LeetCode problem-solving journey using C++ and Python.
+This repository contains my solutions to LeetCode problems in **C++ and Python**.
 
-## Difficulty
+The solutions are automatically synced from LeetCode and organized based on the problem details.
 
-- Easy
-- Medium
-- Hard
+## Languages
+
+- C++
+- Python
+
+## About
+
+I use this repository to practice Data Structures and Algorithms, improve problem-solving skills, and prepare for technical interviews.
+
+Each solved problem is added automatically with its corresponding problem name and solution.
 
 ## Topics
 
+The repository covers various DSA topics, including:
+
 - Arrays
-- Hashing
 - Strings
-- Binary Search
+- Hashing
 - Two Pointers
 - Sliding Window
+- Binary Search
 - Linked List
-- Graph
+- Stack & Queue
+- Recursion
+- Sorting
+- Trees
+- Graphs
 - Dynamic Programming
 - Backtracking
+- And more.
 
-## Coding Sheets Progress
+## Goals
 
-CodeSync automatically tracks your progress across curated coding sheets. Here is your current progress:
+- Improve DSA problem-solving skills
+- Practice writing efficient solutions
+- Solve problems in both C++ and Python
+- Prepare for technical interviews
+- Maintain a record of solved LeetCode problems
 
-| Coding Sheet | Solved | Total |
-| :--- | :--- | :--- |
-| Blind 75 | 1 | 75 |
-| Grind 75 | 1 | 75 |
-| Grind 169 | 1 | 169 |
-| Neetcode 150 | 1 | 150 |
-| LeetCode 75 | 1 | 75 |
-| Top Interview 150 | 1 | 150 |
-| LeetCode 100 Most Liked | 1 | 100 |
-| SQL 50 | 0 | 50 |
-| Strivers A2Z DSA Sheet | 1 | 455 |
-| Striver SDE Sheet | 1 | 191 |
-| Love Babbar Sheet | 1 | 445 |
-| Code Army Sheet | 0 | 726 |
-| GFG 160 | 0 | 160 |
-| CSES Problem Set | 0 | 300 |
-| InterviewBit Sets | 0 | 200 |
-| Nishant Chahar 151 | 1 | 151 |
-| Kushal Vijay Patterns | 1 | 100 |
-| DSA by Shradha Didi & Aman Bhaiya | 1 | 403 |
-| Fraz DSA Sheet | 1 | 279 |
-| AlgoMaster 75 | 1 | 75 |
-| 6 Companies 30 Days | 1 | 90 |
-| Striver 79 | 1 | 79 |
-| Atharva Patil's 150 Sheet | 1 | 150 |
-| AlgoMaster 300 | 0 | 300 |
-| Arsh DSA Sheet | 0 | 287 |
-| Neetcode 250 | 0 | 250 |
-| 20 Essential DSA Patterns | 0 | 180 |
-| AlgoMaster 150 | 0 | 150 |
-| DP Mastery Sheet | 0 | 67 |
-| String Mastery Sheet | 0 | 51 |
-| Graph Mastery Sheet | 0 | 29 |
-| Heap Mastery Sheet | 0 | 22 |
+## Progress
+
+This repository is continuously updated as I solve new problems on LeetCode.
+
+---
+
+**LeetCode:** https://leetcode.com/
+
+> Keep solving, keep improving. 🚀
