@@ -7,7 +7,7 @@
 - Runtime: 0 ms
 - Memory: 19.05 MB
 - Problem URL: https://leetcode.com/problems/count-commas-in-range/submissions/?envType=daily-question&envId=2026-09-08
-- Synced: 2026-09-08T14:50:01.200Z
+- Synced: 2026-09-08T14:51:14.630Z
 
 ## Problem Description
 
