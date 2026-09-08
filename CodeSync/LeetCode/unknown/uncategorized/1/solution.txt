@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: 1
+ * URL: https://leetcode.com/problems/count-commas-in-range/submissions/2135184094/?envType=daily-question&envId=2026-09-08
+ * Language: Daily Question
+ * Difficulty: Unknown
+ * Topics: Uncategorized
+ * Runtime: 0 ms
+ * Memory: 19.28 MB
+ * Synced: 2026-09-08T14:44:26.196Z
+ */
+
+1class Solution:
+2    def countCommas(self, n: int) -> int:
+3        if n <1000:
+4            return 0
+5        rem = n - 1000
+6        return rem + 1
