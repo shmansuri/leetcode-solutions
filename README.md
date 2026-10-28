@@ -59,8 +59,17 @@ This repository is continuously updated as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shmansuri/leetcode-solutions/tree/master/0001-two-sum) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shmansuri/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shmansuri/leetcode-solutions/tree/master/0001-two-sum) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shmansuri/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Sorting
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shmansuri/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
