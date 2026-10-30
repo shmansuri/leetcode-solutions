@@ -81,4 +81,8 @@ This repository is continuously updated as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shmansuri/leetcode-solutions/tree/master/0012-integer-to-roman) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/shmansuri/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
