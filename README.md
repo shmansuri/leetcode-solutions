@@ -64,6 +64,7 @@ This repository is continuously updated as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shmansuri/leetcode-solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/shmansuri/leetcode-solutions/tree/master/0012-integer-to-roman) |
 ## Greedy
 |  |
 | ------- |
@@ -72,4 +73,12 @@ This repository is continuously updated as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shmansuri/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/shmansuri/leetcode-solutions/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/shmansuri/leetcode-solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
