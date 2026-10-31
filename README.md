@@ -66,6 +66,7 @@ This repository is continuously updated as I solve new problems on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/shmansuri/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/shmansuri/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/shmansuri/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +75,7 @@ This repository is continuously updated as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shmansuri/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/shmansuri/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shmansuri/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Math
 |  |
@@ -84,6 +86,7 @@ This repository is continuously updated as I solve new problems on LeetCode.
 | ------- |
 | [0012-integer-to-roman](https://github.com/shmansuri/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/shmansuri/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/shmansuri/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Database
 |  |
 | ------- |
