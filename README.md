@@ -59,6 +59,7 @@ This repository is continuously updated as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shmansuri/leetcode-solutions/tree/master/0001-two-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shmansuri/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shmansuri/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ This repository is continuously updated as I solve new problems on LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shmansuri/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shmansuri/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Math
 |  |
@@ -86,4 +88,16 @@ This repository is continuously updated as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/shmansuri/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shmansuri/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shmansuri/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shmansuri/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
