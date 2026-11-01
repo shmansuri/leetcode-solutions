@@ -8,11 +8,6 @@ class Solution:
         #         num //= 10
         #     num = sum(list1)      
         # return num
-
-        if num == 0:
-            return 0
-        
-        return 1+ (num-1)%9
         
     #optimal to previous
         # while num > 9:
@@ -22,6 +17,14 @@ class Solution:
         #         num //= 10
         #     num = total   
         # return num
+
+        #most optimal code
+        #time complexity = O(1)
+        # space complexity = O(1)
+        if num == 0:
+            return 0
+        
+        return 1+ (num-1)%9
         
         
         
