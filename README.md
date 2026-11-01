@@ -83,6 +83,7 @@ This repository is continuously updated as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/shmansuri/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0258-add-digits](https://github.com/shmansuri/leetcode-solutions/tree/master/0258-add-digits) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shmansuri/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## String
 |  |
@@ -106,4 +107,12 @@ This repository is continuously updated as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shmansuri/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shmansuri/leetcode-solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shmansuri/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
