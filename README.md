@@ -60,6 +60,7 @@ This repository is continuously updated as I solve new problems on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/shmansuri/leetcode-solutions/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shmansuri/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/shmansuri/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/shmansuri/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shmansuri/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
@@ -141,4 +142,8 @@ This repository is continuously updated as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/shmansuri/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/shmansuri/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
