@@ -63,6 +63,7 @@ This repository is continuously updated as I solve new problems on LeetCode.
 | [1480-running-sum-of-1d-array](https://github.com/shmansuri/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shmansuri/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/shmansuri/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/shmansuri/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shmansuri/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shmansuri/leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 ## Hash Table
@@ -119,6 +120,7 @@ This repository is continuously updated as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shmansuri/leetcode-solutions/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/shmansuri/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
