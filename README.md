@@ -64,6 +64,7 @@ This repository is continuously updated as I solve new problems on LeetCode.
 | [1512-number-of-good-pairs](https://github.com/shmansuri/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/shmansuri/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shmansuri/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/shmansuri/leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ This repository is continuously updated as I solve new problems on LeetCode.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shmansuri/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shmansuri/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/shmansuri/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/shmansuri/leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 ## Database
 |  |
 | ------- |
