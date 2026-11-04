@@ -67,6 +67,7 @@ This repository is continuously updated as I solve new problems on LeetCode.
 | [1929-concatenation-of-array](https://github.com/shmansuri/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shmansuri/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shmansuri/leetcode-solutions/tree/master/2255-count-prefixes-of-a-given-string) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shmansuri/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ This repository is continuously updated as I solve new problems on LeetCode.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shmansuri/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1512-number-of-good-pairs](https://github.com/shmansuri/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shmansuri/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shmansuri/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
