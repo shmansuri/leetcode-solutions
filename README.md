@@ -165,4 +165,8 @@ This repository is continuously updated as I solve new problems on LeetCode.
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/shmansuri/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shmansuri/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
